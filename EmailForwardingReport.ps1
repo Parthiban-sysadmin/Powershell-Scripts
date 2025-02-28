@@ -6,7 +6,10 @@ Version:        1.0
 
 Script Highlights: 
 ~~~~~~~~~~~~~~~~~
-1.Generates 3 different email forwarding rules reports.  
+1.Generates 3 different email forwarding rules reports.
+  Mailbox forwarding settings (ForwardingSMTPAddress, ForwardingAddress)
+  Inbox rules (Forward To, Redirect To, Forward As Attachment To)
+  Transport rules (RedirectMessageTo)
 2.Automatically installs the Exchange Online module upon your confirmation when it is not available in your machine. 
 3.Shows mailboxes in which email forwarding configured through ‘Forwarding SMTP Address’ and ‘Forward To’. 
 4.Lists all inbox rules that forward email to others’ mailbox. 
