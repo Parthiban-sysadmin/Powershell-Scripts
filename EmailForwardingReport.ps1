@@ -3,7 +3,6 @@
 Name:           Export Office 365 Email Forwarding Report using PowerShell 
 Description:    This script exports Office 365 email forwarding report  to CSV format
 Version:        1.0
-Website:        o365reports.com
 
 Script Highlights: 
 ~~~~~~~~~~~~~~~~~
@@ -16,7 +15,6 @@ Script Highlights:
 7.Exports the report in CSV format.  
 8.The script is scheduler-friendly. You can automate the report generation upon passing credentials as parameters. 
 
-For detailed script execution: https://o365reports.com/2021/06/09/export-office-365-email-forwarding-report-using-powershell/
 ============================================================================================
 #>
 
