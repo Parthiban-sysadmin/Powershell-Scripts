@@ -1,7 +1,6 @@
 ﻿<#
 =============================================================================================
 Name:           Export Mailbox Permission Report
-Website:        o365reports.com
 Version:        3.0
 
 Script Highlights :
@@ -20,7 +19,7 @@ Script Highlights :
 11. This script is scheduler friendly.
 
 
-For detailed Script execution: https://o365reports.com/2019/03/07/export-mailbox-permission-csv/
+
 ============================================================================================
 #>
 
